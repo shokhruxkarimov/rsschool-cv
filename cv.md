@@ -72,3 +72,16 @@ I'm studying in Tashkent Information of technology university in Uzbekistan, and
       }  
 
 *I learned this code in order to learn data structures in Javascript. The code above is used to build Stack structure manually.*
+
+
+## Experience
+1. I've an experience in Web Development, Front-end
+
+
+## Education
+
+- ### **Academic Lyceum 2, Urgench, Uzbekistan(2017-2019)**
+
+	- Faculty of technology(physics, math)
+- ### **Bachelor, Tashkent Univeristy of Information Technology(2019-...**
+	- Faculty of Software Engineering
