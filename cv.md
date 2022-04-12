@@ -13,3 +13,15 @@
 ## Summary
 
 I'm studying in Tashkent Information of technology university in Uzbekistan, and I'm third year student. I've worked on some small web projects with my teachers, peers, and friends. I'm interested in Web technology, algorithms, math, and business, so that studying is my priority. I want to work with highly-experienced developers, work on huge projects and also want to create what can help to all over the world during my career. Right now, I'm studying in RS School to gain very important knowledge and experience and want to work in there.
+
+
+## Skills
+
+* HTML
+* CSS(Bootstrap as an framework)
+* Javascript(Basic fundamentals, functional programming, OOP, ES6)
+* Version control: Git(Git Hub)
+* C++(basic knowledge), Java(basic knowledge), 
+* Computer science
+* Editors: Sublime Text, Brackets, VSCode, Atom, CodeBlocks, Devc++
+* Figma(basic knowledge)
