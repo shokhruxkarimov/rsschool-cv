@@ -85,3 +85,9 @@ I'm studying in Tashkent Information of technology university in Uzbekistan, and
 	- Faculty of technology(physics, math)
 - ### **Bachelor, Tashkent Univeristy of Information Technology(2019-...**
 	- Faculty of Software Engineering
+
+
+## English
+
+* ### Level - between Upper Intermediate(B2) and Advanced(C1)
+***I've been learning English for almost 3 years and preparing for IELTS test, and my current results between B2 and C1(6.5, 7 in IELTS)***
